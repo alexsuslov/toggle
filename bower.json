@@ -1,0 +1,20 @@
+{
+  "name": "toggle",
+  "authors": [
+    "Alex Suslov <suslov@me.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

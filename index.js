@@ -6,7 +6,7 @@ define(['widgets'], function(d) {
   var debug = false;
   d.directive('toggle', function($compile) {
     // led colors
-    var colors = ['grey', , 'green', 'red', 'black', 'blue', 'orange', 'white', 'yellow'];
+    var colors = ['grey', 'green', 'red', 'black', 'blue', 'orange', 'white', 'yellow'];
     // ### template
     var template = [
       '<img style="float:left;padding-top:2px;" src="./img/led/led_{{color}}.png">',
